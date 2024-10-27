@@ -3,7 +3,7 @@ import java.sql.*;
 
 /**
  *
- * @author chetankoliparthi
+ * 
  */
 public class Conn {
     //step-1:CREATE CONNECTION
@@ -12,7 +12,7 @@ public class Conn {
     Connection c;
     public Conn(){
         try{
-            c=DriverManager.getConnection("jdbc:mysql:///bankmanagementsystem","root","Chetan@2707");
+            c=DriverManager.getConnection("jdbc:mysql:///bankmanagementsystem","root","YOUR MYSQL CREATED PASSWORD");
             s=c.createStatement();
         }catch(Exception e){
             System.out.println(e);
