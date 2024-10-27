@@ -3,7 +3,7 @@ package bank.management.system;
 
 /**
  *
- * @author chetankoliparthi
+ * @author NISHITHAKARNATI
  */
 import java.awt.Color;
 import javax.swing.*;
