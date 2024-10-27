@@ -2,7 +2,7 @@ package bank.management.system;
 
 /**
  *
- * @author chetankoliparthi
+ * @author NISHITHAKARNATI
  */
 import java.awt.*;
 import javax.swing.*;
