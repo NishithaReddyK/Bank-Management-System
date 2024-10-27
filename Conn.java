@@ -2,7 +2,7 @@ package bank.management.system;
 import java.sql.*;
 
 /**
- *
+ * THIS CODE CONNECTS YOUR PROJECT TO THE DATABASE
  * 
  */
 public class Conn {
