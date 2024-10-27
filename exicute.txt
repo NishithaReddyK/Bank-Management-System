@@ -1,0 +1,13 @@
+Step 1 : Make sure that the environment your using is set up properly 
+Step 2 : the paths in the codes are based on my pc paths
+Step 3 : Before working on this project You should have a idea on MySQL cuz here it helps in connecting the backend of the project
+
+.
+.
+.
+.
+.
+.
+.
+.
+ALL THE BEST !!
